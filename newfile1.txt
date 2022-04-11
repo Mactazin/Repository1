@@ -1,0 +1,4 @@
+Typing a via in git prompt.:wq
+:wq
+
+
