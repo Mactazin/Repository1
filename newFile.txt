@@ -1,0 +1,1 @@
+file name is new file 3 and entering from git bash
